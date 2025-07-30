@@ -1,4 +1,4 @@
-# Uso de Astah UML para Modelado de Arquitectura Empresarial
+# Uso de Astah UML para Modelado de Arquitectura Empresarial Gabriela Bejarano
 
 
 ## Diagrama de Clases (sistemas_citas): 
